@@ -196,3 +196,11 @@ class SomeCommandController extends CommandController
     }
 }
 ```
+
+## Contribution
+
+Contributions in the form of issues or pull requests are highly appreciated
+
+## License
+
+See [LICENSE](./LICENSE)
